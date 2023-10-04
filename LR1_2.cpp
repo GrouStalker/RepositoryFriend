@@ -3,7 +3,7 @@
 #include <iomanip>
 /*HelloWorld*/
 using namespace std;
-
+/*Изменения друга*/
 int main(void)
 {
     float P,Q,R,x,P1;
